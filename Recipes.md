@@ -114,3 +114,17 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Drinks
+### Aperol Spritz
+
+Ingredients:
+- Ice
+- 3 ounces (1 part) Aperol
+- 3 ounces (1 part) dry Prosecco
+- 1 ounce (a splash) club soda or unflavored sparkling water
+- Orange slice, for garnish
+
+Instructions:
+1. Add ice to a wine glass until it is nearly full. Pour in the Aperol (I usually eyeball this and pour until I’ve filled about one-third of the glass).
+2. Pour in an equal amount of Prosecco. Top your drink off with a splash of club soda and add a slice of orange. Enjoy!
