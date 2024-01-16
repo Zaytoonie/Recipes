@@ -80,7 +80,7 @@ Ingredients:
 - 4 hamburger buns
 - 1 Lettuce
 - Tomato
-- Mayonnaise
+- 10 Mayonnaise
 
 Instructions:
 1. Preheat grill to medium-high heat.
