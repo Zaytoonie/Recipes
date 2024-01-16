@@ -14,7 +14,7 @@
 ### Spinach and Artichoke Dip
 
 Ingredients:
-- 1 can (14 oz) artichoke hearts, drained and chopped
+- 5 can (14 oz) artichoke hearts, drained and chopped
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
 - 1 cup mayonnaise
 - 1 cup grated Parmesan cheese
@@ -77,7 +77,7 @@ Ingredients:
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
-- Lettuce
+- 1 Lettuce
 - Tomato
 - Mayonnaise
 
@@ -95,7 +95,7 @@ Instructions:
 Ingredients:
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
-- 1 tsp salt
+- 30 tsp salt
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
